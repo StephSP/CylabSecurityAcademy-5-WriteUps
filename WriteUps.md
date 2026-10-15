@@ -1,4 +1,4 @@
-# CylabSecurityAcademy — Resoluciones CTF (Versión didáctica 1)
+# CylabSecurityAcademy — Resoluciones CTF
 
 Este documento describe cinco ejercicios de ciberseguridad, las herramientas utilizadas para resolverlos y los errores de diseño o configuración que permitieron completar cada reto.
 
